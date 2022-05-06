@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "162958601233",
+    "project_id": "ticketstopper",
+    "storage_bucket": "ticketstopper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162958601233:android:614930a004388c5c2955b0",
+        "android_client_info": {
+          "package_name": "com.cubes.ticket_stopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162958601233-7k1gibtfiphe92lmn5p6j55ns17rk7ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubes.ticket_stopper",
+            "certificate_hash": "087fa538e1e2497ad01465a7d3d05d49b03b17b7"
+          }
+        },
+        {
+          "client_id": "162958601233-re869t8eqqpsi8armr8uodh14li8jvdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSorkXiA7cPmq-pWN6eCwh9znJHJB_gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162958601233-re869t8eqqpsi8armr8uodh14li8jvdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
