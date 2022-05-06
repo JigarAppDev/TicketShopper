@@ -9,11 +9,11 @@ const kGooglePlusColor = Color(0xFFFD3951);
 const kBGColor = Color(0xFFF0EFEF);
 
 final String iconURL = 'assets/icons';
-final String apiURL = 'http://143.198.63.52/ticket_stopper/api';
-final BASE_URL = 'http://143.198.63.52/ticket_stopper/api/';
-const ADD_RECIEPT = 'http://143.198.63.52/ticket_stopper/api/add_reciept';
-const UPDATE_SUBSCRIPTION = 'http://143.198.63.52/ticket_stopper/api/update_subscription';
-const GetFlag = 'http://143.198.63.52/ticket_stopper/api/edit_profile';
+final String apiURL = '';
+final BASE_URL = '';
+const ADD_RECIEPT = '';
+const UPDATE_SUBSCRIPTION = '';
+const GetFlag = '';
 
 final kUnderlineInputBorder = UnderlineInputBorder(borderSide: BorderSide(color: Colors.grey));
 
